@@ -1,0 +1,1 @@
+Attrib +h +s +r D:\Downloads\Dummies

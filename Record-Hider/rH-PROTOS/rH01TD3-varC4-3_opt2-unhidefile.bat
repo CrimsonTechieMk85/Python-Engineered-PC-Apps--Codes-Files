@@ -1,0 +1,1 @@
+Attrib -h -s -r "C:\Users\Benjamin Suraj\Pictures\Saved Pictures\start.png"

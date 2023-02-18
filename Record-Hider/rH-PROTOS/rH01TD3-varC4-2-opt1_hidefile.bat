@@ -1,0 +1,1 @@
+Attrib +h +s +r C:\Users\Benjamin Suraj\Pictures\Screenshots\Screenshot 2022-08-31 133051.png
